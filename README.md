@@ -1,2 +1,2 @@
-# landing-page-instragram
+# landing-page-instagram
 Pagina inicial do Instagram
